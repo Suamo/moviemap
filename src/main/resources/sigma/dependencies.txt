@@ -1,0 +1,540 @@
+Guardians of the Galaxy	8,1
+Interstellar	8,6
+Gone Girl	8,1
+The Imitation Game	8,1
+The Babadook	6,8
+It Follows	6,9
+Whiplash	8,5
+Kingsman: The Secret Service	7,7
+John Wick	7,2
+Fury	7,6
+The Book of Life	7,3
+Maleficent	7
+The Purge: Anarchy	6,5
+X-Men: Days of Future Past	8
+Godzilla	6,5
+The Grand Budapest Hotel	8,1
+Edge of Tomorrow	7,9
+The Theory of Everything	7,7
+Captain America: The Winter Soldier	7,8
+Divergent	6,7
+Big Eyes	7
+The Amazing Spider-Man 2	6,7
+Birdman or	7,8
+Nightcrawler	7,9
+La belle et la b?te	6,4
+What We Do in the Shadows	7,6
+The Hobbit: The Battle of the Five Armies	7,4
+The Maze Runner	6,8
+Dracula Untold	6,3
+Into the Woods	6
+The Giver	6,5
+American Sniper	7,3
+Deliver Us from Evil	6,2
+The Equalizer	7,2
+The Fault in Our Stars	7,8
+The Guest	6,7
+Predestination	7,4
+Big Hero 6	7,9
+Sin City: A Dame to Kill For	6,5
+Love, Rosie	7,2
+Need for Speed	6,5
+The Expendables 3	6,1
+Unbroken	7,2
+Inherent Vice	6,7
+Boyhood	7,9
+Exodus: Gods and Kings	6,1
+Lucy	6,4
+Relatos salvajes	8,1
+The Hunger Games: Mockingjay - Part 1	6,7
+Neighbors	6,4
+The Lego Movie	7,8
+A Girl Walks Home Alone at Night	7
+The Best of Me	6,7
+300: Rise of an Empire	6,2
+Chef	7,3
+If I Stay	6,8
+Creep	6,2
+Ich seh ich seh	6,7
+As Above, So Below	6,2
+A Walk Among the Tombstones	6,5
+The Voices	6,3
+Before We Go	6,9
+The November Man	6,3
+I Origins	7,3
+Hercules	6
+The Loft	6,3
+The Other Woman	6
+The Interview	6,6
+Dawn of the Planet of the Apes	7,6
+Let's Be Cops	6,5
+A Million Ways to Die in the West	6,1
+Transcendence	6,3
+St. Vincent	7,3
+The Judge	7,4
+22 Jump Street	7,1
+That Awkward Moment	6,2
+Eliza Graves	6,8
+Non-Stop	7
+Blended	6,5
+Horrible Bosses 2	6,3
+Testament of Youth	7,3
+Wild	7,1
+The Salvation	6,8
+How to Train Your Dragon 2	7,9
+Night at the Museum: Secret of the Tomb	6,2
+PK	8,2
+The Drop	7,1
+The Hundred-Foot Journey	7,3
+X+Y	7,2
+The Taking	6
+Foxcatcher	7
+Step Up All In	6
+Suite Fran?aise	6,9
+Endless Love	6,3
+In Your Eyes	7,1
+This Is Where I Leave You	6,6
+Still Alice	7,5
+Time Lapse	6,5
+Winter's Tale	6,2
+Taken 3	6
+The Water Diviner	7,1
+Selma	7,5
+The Gambler	6
+Song of the Sea	8,2
+Before I Go to Sleep	6,3
+Jack Ryan: Shadow Recruit	6,2
+The Boxtrolls	6,8
+3 Days to Kill	6,2
+Housebound	6,8
+Cake	6,4
+The Raid 2: Berandal	8
+Mommy	8,1
+RoboCop	6,2
+Magic in the Moonlight	6,6
+The Riot Club	6
+Pawn Sacrifice	7
+The Homesman	6,6
+A Most Wanted Man	6,8
+The Monuments Men	6,1
+Who Am I - Kein System ist sicher	7,6
+Black Sea	6,4
+Love & Mercy	7,4
+She's Funny That Way	6,2
+Ride Along	6,2
+Pride	7,8
+A Most Violent Year	7
+Frank	7
+Paddington	7,2
+Laggies	6,4
+Escobar: Paradise Lost	6,6
+Kill the Messenger	7
+Beyond the Lights	6,9
+99 Homes	7,1
+Two Night Stand	6,4
+Hector and the Search for Happiness	7
+Penguins of Madagascar	6,7
+Playing It Cool	6
+The Signal	6,1
+Men, Women & Children	6,7
+Ask Me Anything	6
+Alexander and the Terrible, Horrible, No Good, Very Bad Day	6,2
+Starry Eyes	6
+A Little Chaos	6,5
+La isla m?nima	7,3
+Barefoot	6,6
+'71	7,2
+Maps to the Stars	6,2
+Calvary	7,4
+Wyrmwood	6,3
+White Bird in a Blizzard	6,4
+Aut?mata	6,1
+5 to 7	7,1
+Good Kill	6,4
+Veronica Mars	6,8
+Draft Day	6,8
+Son of a Gun	6,5
+The Little Death	7,1
+Wish I Was Here	6,7
+Lullaby	6,2
+Clouds of Sils Maria	6,8
+While We're Young	6,3
+Kajaki	7,1
+Stretch	6,5
+Top Five	6,5
+Just Before I Go	6,4
+Rio 2	6,4
+Jersey Boys	6,8
+Cold in July	6,8
+D?d sn? 2	7
+Spring	6,7
+You're Not You	7,4
+Fasandr?berne	7,1
+Walk of Shame	6
+Camp X-Ray	7
+Leviafan	7,6
+Trash	7,2
+Comet	6,7
+Rudderless	7,5
+Turist	7,3
+Mr. Peabody & Sherman	6,9
+Backcountry	6
+13 Sins	6,3
+Cuban Fury	6,2
+About Last Night	6,1
+Deux jours, une nuit	7,4
+Infinitely Polar Bear	7
+A Long Way Down	6,4
+The Duke of Burgundy	6,7
+The Rewrite	6,2
+Get on Up	6,9
+The Good Lie	7,4
+The Inbetweeners 2	6,5
+Mr. Turner	6,8
+The Two Faces of January	6,2
+Kis Uykusu	8,2
+Poker Night	6,3
+Closer to the Moon	7,1
+10.000 Km	6,7
+Le meraviglie	6,7
+Qu'est-ce qu'on a fait au Bon Dieu?	7
+Plemya	7,1
+Shelter	6,4
+The Disappearance of Eleanor Rigby: Them	6,3
+The Rover	6,4
+Every Secret Thing	6,1
+The Keeping Room	6
+The One I Love	7,1
+Omoide no M?n?	7,8
+The Skeleton Twins	6,8
+What We Did on Our Holiday	6,9
+Million Dollar Arm	7
+Loin des hommes	7,3
+Black or White	6,6
+Feh?r isten	6,9
+Ocho apellidos vascos	6,6
+Wildlike	6,6
+Muppets Most Wanted	6,4
+Boy Meets Girl	7,1
+Dear White People	6,3
+When the Game Stands Tall	6,7
+Das finstere Tal	7,2
+Cut Bank	6
+Hoje Eu Quero Voltar Sozinho	8
+The Dark Horse	7,6
+Kid Cannabis	6,4
+God's Pocket	6,1
+Obvious Child	6,8
+Mythica: A Quest for Heroes	6,5
+Phoenix	7,3
+Planes: Fire & Rescue	6
+We Still Kill the Old Way	6
+Rob the Mob	6,3
+Love Is Strange	6,7
+De behandeling	7,2
+Gett	7,7
+Im Labyrinth des Schweigens	7,3
+Viharsarok	6,9
+The Road Within	7,1
+La famille B?lier	7,4
+Plastic	6
+Paper Planes	6,2
+Jimmy's Hall	6,7
+Learning to Drive	6,4
+Kraftidioten	7,2
+Rosewater	6,6
+Flying Home	6,2
+Rampage: Capital Punishment	6,3
+My Old Lady	6,3
+Boychoir	6,7
+Saint Laurent	6,1
+Haider	8,2
+Jamesy Boy	6,3
+Life Partners	6,2
+Yi ge ren de wu lin	6,5
+5 Flights Up	6,1
+God Help the Girl	6,4
+Timbuktu	7,2
+Bangalore Days	8,3
+Redirected	6,7
+The Dead Lands	6,3
+Theeb	7,3
+U-neun nam-ja	6,8
+23 Blast	6,4
+Swearnet: The Movie	6,3
+Samba	6,7
+Gemma Bovery	6,4
+Better Living Through Chemistry	6,3
+Yves Saint Laurent	6,2
+Jauja	6,4
+Like Sunday, Like Rain	6,9
+Against the Sun	6,5
+About Alex	6,4
+Dolphin Tale 2	6,4
+The Prophet	7,1
+Blind	7
+Faults	6,7
+The Trip to Italy	6,6
+Copenhagen	7,2
+Respire	7,1
+Take Care	6,1
+Before I Disappear	7,2
+Mune, le gardien de la lune	7,3
+Where Hope Grows	6,5
+En duva satt p? en gren och funderade p? tillvaron	7
+Une nouvelle amie	6,5
+En chance til	6,8
+Cuatro lunas	7,4
+Eden	6,4
+The Sisterhood of Night	6,3
+Bande de filles	6,9
+L'affaire SK1	6,6
+The Song	6
+Rur?ni Kenshin: Ky?to taika-hen	7,7
+The Last: Naruto the Movie	7,8
+Dukhtar	7,1
+Avis de mistral	6,6
+Styria	6,8
+Fort Bliss	6,4
+Myeong-ryang	7,1
+La French	7,1
+Hungry Hearts	6,4
+Smetto quando voglio	7
+Kiseijuu	7
+Kumiko, the Treasure Hunter	6,6
+Frontera	6,6
+Appropriate Behavior	6,7
+The Search	6,8
+Kkeut-kka-ji-gan-da	7,2
+The Editor	6,1
+Highway	7,6
+Huang feihong zhi yingxiong you meng	6,5
+La chambre bleue	6,3
+John Doe: Vigilante	6,6
+Northern Soul	6,4
+2 States	6,9
+Hyena	6,2
+Desert Dancer	6
+Listen Up Philip	6,3
+Musara?as	6,7
+Heaven Knows What	6,4
+One Square Mile	6,3
+Gui lai	7,3
+Rur?ni Kenshin: Densetsu no saigo-hen	7,6
+Nightingale	6,4
+The Cut	6,2
+Elephant Song	6,5
+The Mule	6,3
+Casa Grande	7,1
+Maya the Bee Movie	6
+El Ni?o	6,5
+Margarita with a Straw	7,3
+Kaththi	8
+Khoobsurat	6,4
+Low Down	6,1
+Les combattants	6,7
+A escondidas	7,2
+My Little Pony: Equestria Girls - Rainbow Rocks	7,2
+R?alit?	6,9
+Magical Girl	7,2
+Kawaki	6,6
+Camp Takota	7
+Mary Kom	6,8
+Hellion	6,1
+Kelly & Cal	6,2
+Dr. Cabbie	6,5
+Perdona si te llamo amor	6,6
+Elsa & Fred	6,5
+Jack Strong	7,2
+1 - Nenokkadine	8,5
+Get Santa	6,2
+Saphirblau	6,5
+Killers	6,5
+Dabbe: Zehr-i Cin	6,5
+Gukjesijang	7,7
+Cesar Chavez	6,4
+Haemoo	6,9
+Bai ri yan huo	6,6
+Praia do Futuro	6,1
+Amira & Sam	6,2
+Oorlogsgeheimen	7,1
+Titli	7,6
+Freedom	6,2
+Tokyo Tribe	6,4
+The Frame	6,8
+The Maid	7,1
+Urok	7,3
+Ast?rix: Le domaine des dieux	7
+Tajja: Sineui son	6,9
+Kaakkaa Muttai	8,6
+Kreuzweg	7,5
+Match	6,7
+Cantinflas	6,6
+G?eros	7,5
+Lilting	7,2
+Supercondriaque	6
+Une rencontre	6,3
+Kenau	6,5
+Ek Villain	6,4
+Anime nere	6,8
+Tutta colpa di Freud	6,4
+Kuroshitsuji	6,3
+Babysitting	6,7
+Kundo: Min-ran-eui si-dae	6,8
+B?rning	6,3
+Bi K???k Eyl?l Meselesi	7,4
+Zh? qu weihu shan	6,5
+Holiday	7,4
+Dohee-ya	7
+50 to 1	6,6
+Futatsume no mado	6,8
+Bhoothnath Returns	6,9
+Trailer Park Boys: Don't Legalize It	7,5
+Durak	8
+Xenia	6,8
+Pek Yakinda	7,8
+Diplomatie	7,1
+All?luia	6,2
+The Blue Elephant	8,3
+Zero Motivation	7,4
+Velaiyilla Pattathari	7,7
+Hin und weg	7,3
+La dictadura perfecta	7,3
+The Fluffy Movie: Unity Through Laughter	7,2
+Loreak	6,8
+E zhan	6,8
+Hasee Toh Phasee	6,9
+Monty Python Live	7,7
+One Eyed Girl	6,7
+Miasto 44	6,7
+Bhopal: A Prayer for Rain	7,4
+Unutursam Fisilda	7,5
+Sin-ui hansu	6,7
+Sand Castles	7
+Helicopter Mom	6,6
+L'homme qu'on aimait trop	6,1
+Allacciate le cinture	6,5
+Madras	8
+Tokyo Fianc?e	6,4
+Bird People	6,1
+Kamisama no iu t?ri	6,5
+Tu dors Nicole	7
+Cruel & Unusual	6,7
+La prochaine fois je viserai le coeur	6,4
+Barbecue	6,1
+Man from Reno	6,8
+Honig im Kopf	6,7
+Stille hjerte	7,2
+The Living	6,2
+Kamikaze	6,4
+Appleseed Alpha	6,6
+Dragon Nest: Warriors' Dawn	6,4
+Pas son genre	6,5
+Vonarstr?ti	7,4
+Ghost in the Shell Arise: Border 3 - Ghost Tears	7,3
+Sicc?n	6,5
+Mot naturen	7,1
+Corner Gas: The Movie	6,7
+Ohm Shanthi Oshaana	7,6
+Stereo	6,7
+The Suicide Theory	6,5
+Os Gatos n?o T?m Vertigens	7,3
+Mea culpa	6,1
+Hippocrate	6,9
+Dedh Ishqiya	7,2
+Raja Natwarlal	6,1
+Humpty Sharma Ki Dulhania	6
+Unfreedom	6,7
+Mita Tova	7,1
+VAN valami furcsa ?s megmagyar?zhatatlan	7,8
+Cui mian da shi	6,9
+Kochadaiiyaan	6,6
+Kukhnya v Parizhe	7
+Jacky au royaume des filles	6
+Panzehir	7,3
+Il giovane favoloso	6,8
+Zeit der Kannibalen	7,1
+Il ragazzo invisibile	6,3
+Hartenstraat	6,3
+$50K and a Call Girl: A Love Story	7
+From A to B	6,2
+Mali Budo	6,4
+Pyojeok	6,3
+Matar a un hombre	6,3
+Su-sang-han geu-nyeo	7,3
+Bogowie	7,8
+Xiu chun dao	6,6
+Lucia de B.	7,1
+Nicht mein Tag	6,6
+Small Time	6,1
+Mortadelo y Filem?n contra Jimmy el Cachondo	6,6
+Jigarthanda	8,5
+(Ujjobu) Kamisari n?n? nichij?	7,6
+Buzzard	6,4
+Ulidavaru Kandanthe	8,7
+Sulemani Keeda	7,2
+Gulaab Gang	6,2
+Manam	8,2
+Court	7,8
+Elle l'adore	6,4
+Dancing Arabs	7,3
+Na Maloom Afraad	7,9
+Stand by Me Doraemon	7,4
+The Infinite Man	6,4
+Jaatishwar	8,1
+Les vacances du petit Nicolas	6,1
+Sinbad: The Fifth Voyage	6
+Kano	8
+Punjab 1984	8,5
+Stromberg - Der Film	7,4
+Simindis kundzuli	7,7
+Kya Dilli Kya Lahore	7,5
+Jilla	6,1
+Chotushkone	8,1
+Excuse My French	7,9
+Mardaani	7,4
+Mielens?pahoittaja	7
+Incir Re?eli 2	6,2
+1983	7,7
+Race Gurram	7,3
+Daawat-e-Ishq	6,2
+7th Day	6,7
+Patron Mutlu Son Istiyor	6,3
+Hawaa Hawaai	7,5
+Itirazim Var	8,1
+Mo jing	6
+Reminiscence	6,1
+Hae-jeok: Ba-da-ro gan san-jeok	6,6
+O21	8,4
+Sadece Sen	7,1
+Kurmanjan datka	8,6
+Pisasu	7,8
+Povodyr	8,3
+Pod mocnym aniolem	7
+City Lights	7,2
+Sathuranga Vettai	8
+Birlesen G?n?ller	8,1
+Carmina y am?n.	6,9
+Lingaa	6
+Aanmodderfakker	6,8
+Ugramm	8,2
+Montevideo, vidimo se!	8,5
+Bey Yaar	8,7
+Thegidi	7,8
+Chaar Sahibzaade	8,6
+Vellimoonga	7,5
+Veeram	6,7
+Drushyam	8,4
+Qin ai de	7,7
+Legend	6,7
+Tim Maia	7,3
+Fakat M?zeyyen Bu Derin Bir Tutku	6,6
+Wir sind die Neuen	6,7
+Munnariyippu	7,8
+Maikol Yordan de Viaje Perdido	8,4
+Karthikeya	7,4
+El Ott	6,4
+Living Legends	7,8
+Zaman Makinesi 1973	6,4
+Vikramadithyan	6,4
+Eyyvah Eyvah 3	6,1
