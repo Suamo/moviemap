@@ -2,6 +2,7 @@ package hello.parser;
 
 import java.io.IOException;
 import java.net.URI;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -35,7 +36,7 @@ public class CsvToJson {
         sb.append(getCompetitionNode(BERLIN_NODE_ID, "Berlin Festival", "#174792"));
         sb.append(getCompetitionNode(VENICE_NODE_ID, "Venice Festival", "#ff008f"));
 
-        List<String> lines = Files.readAllLines(Paths.get(path));
+        List<String> lines = Files.readAllLines(Paths.get(path), Charset.defaultCharset());
         for (int i = 0; i < lines.size(); i++) {
             if (i == 0) continue;
 
